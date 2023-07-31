@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                test
+                test upload
             </description>
             <enclosure url="https://github.com/matteospada/cleaning-mode/releases/download/9/Astro.dmg" type="application/octet-stream" sparkle:edSignature="5DkSE5VirmL1J9MOzMKtfkZHfObqwMihphdbWHmpvpdyBqry57+2DaeOv97qtGBG7o5IEThgUe7l0FzEpwjLCA==" length="3319602"
  /> 

@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                test upload
+                upload
             </description>
             <enclosure url="https://github.com/matteospada/cleaning-mode/releases/download/12/CleaningMode.zip" type="application/octet-stream" sparkle:edSignature="MPLZj0IuiRp6fsK0oksDzJH0m444XHSCAyZCCG8Rhzz1AIaXA5YumwfpwKjiUDBqc3Blkq00B/VwwWtqXY/PCQ==" length="3319160"
  /> 

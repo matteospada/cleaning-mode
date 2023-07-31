@@ -3,15 +3,15 @@
     <channel>
         <title>Cleaning Mode</title>
         <item>
-            <title>Version 7</title>
+            <title>Version 9</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>7</sparkle:version>
+            <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                primo test depoly
+                test upload
             </description>
-            <enclosure url="https://github.com/matteospada/cleaning-mode/releases/download/7/Astro.dmg" type="application/octet-stream" sparkle:edSignature="Jk/GZV73qQiT895IlADpJ3cnNZtS2sUd9fdjrsdaTpu9uhbXwdSo7qME8mXT8wkICiatgMA8tGUtnWlUjnvxDQ==" length="3319610"
+            <enclosure url="https://github.com/matteospada/cleaning-mode/releases/download/9/Astro.dmg" type="application/octet-stream" sparkle:edSignature="5DkSE5VirmL1J9MOzMKtfkZHfObqwMihphdbWHmpvpdyBqry57+2DaeOv97qtGBG7o5IEThgUe7l0FzEpwjLCA==" length="3319602"
  /> 
         </item>
     </channel>

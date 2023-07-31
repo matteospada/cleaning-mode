@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Cleaning Mode</title>
+        <item>
+            <title>Version REPLACE_SPARKLE_VERSION</title>
+            <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
+            <sparkle:version>REPLACE_SPARKLE_VERSION</sparkle:version>
+            <sparkle:shortVersionString>REPLACE_APP_VERSION</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
+            <description>
+                REPLACE_SPARKLE_DESCRIPTION
+            </description>
+            <enclosure url="https://github.com/matteospada/REPLACE_REPO/releases/download/REPLACE_SPARKLE_VERSION/Astro.dmg" type="application/octet-stream" REPLACE_SPARKLE_SIGN_UPDATE /> 
+        </item>
+    </channel>
+</rss>

@@ -3,15 +3,16 @@
     <channel>
         <title>Cleaning Mode</title>
         <item>
-            <title>Version REPLACE_SPARKLE_VERSION</title>
+            <title>Version 7</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>REPLACE_SPARKLE_VERSION</sparkle:version>
-            <sparkle:shortVersionString>REPLACE_APP_VERSION</sparkle:shortVersionString>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                REPLACE_SPARKLE_DESCRIPTION
+                primo test di deploy
             </description>
-            <enclosure url="https://github.com/matteospada/REPLACE_REPO/releases/download/REPLACE_SPARKLE_VERSION/Astro.dmg" type="application/octet-stream" REPLACE_SPARKLE_SIGN_UPDATE /> 
+            <enclosure url="https://github.com/matteospada/cleaning-mode/releases/download/7/Astro.dmg" type="application/octet-stream" sparkle:edSignature="Jk/GZV73qQiT895IlADpJ3cnNZtS2sUd9fdjrsdaTpu9uhbXwdSo7qME8mXT8wkICiatgMA8tGUtnWlUjnvxDQ==" length="3319610"
+ /> 
         </item>
     </channel>
 </rss>

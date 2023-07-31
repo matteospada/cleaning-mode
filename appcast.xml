@@ -3,15 +3,15 @@
     <channel>
         <title>Cleaning Mode</title>
         <item>
-            <title>Version 10</title>
+            <title>Version 12</title>
             <pubDate>Sun, 21 Aug 2022 17:19:08 +0200</pubDate>
-            <sparkle:version>10</sparkle:version>
+            <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description>
-                test ouput
+                test upload
             </description>
-            <enclosure url="https://github.com/matteospada/cleaning-mode/releases/download/10/Astro.dmg" type="application/octet-stream" sparkle:edSignature="kMKBguR2CeJLLDYmVYWiizcrng1taJucaK1bHzhQ++lsqE34x4IKl0NrpcHo7amZaxjSF9y99aIE1timgCcLAw==" length="3319168"
+            <enclosure url="https://github.com/matteospada/cleaning-mode/releases/download/12/CleaningMode.zip" type="application/octet-stream" sparkle:edSignature="MPLZj0IuiRp6fsK0oksDzJH0m444XHSCAyZCCG8Rhzz1AIaXA5YumwfpwKjiUDBqc3Blkq00B/VwwWtqXY/PCQ==" length="3319160"
  /> 
         </item>
     </channel>
